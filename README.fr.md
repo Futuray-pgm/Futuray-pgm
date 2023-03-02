@@ -1,6 +1,6 @@
 ### Salut toi 👋 !
 
-![Mine GitHub stats](https://github-readme-stats.vercel.app/api?username=Futuray-pgm&show_icons=true)
+![Mine GitHub stats](https://github-readme-stats.vercel.app/api?username=Futuray-pgm&show_icons=true&theme=shades-of-purple)
 
 ***N'hésite pas à me suivre, voire même à participer à mes projets !***
 
