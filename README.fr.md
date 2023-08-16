@@ -3,7 +3,11 @@
 ***N'hésite pas à me suivre, voire même à participer à mes projets !***
 
 ****
-⚽ -> [Mini-football](https://futuray-pgm.github.io/Mini-football/)
+🪄 -> [Magic tech](https://github.com/Futuray-pgm/magic-tech) et le [site de Magic tech](https://github.com/Futuray-pgm/magic-tech-website)
+
+🛤️ -> [OpenTSW](https://github.com/OpenTSW/OpenTSW)
+
+⚽ -> [Mini-football](https://futuray-pgm.github.io/Mini-football) 
 
 🀄 -> [Real-Mah-Jong](https://github.com/Futuray-pgm/Real-Mah-Jong)
 
